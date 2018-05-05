@@ -1,0 +1,14 @@
+name = Gaa
+value = 5
+name = Moo
+value = 4
+name = Zzz
+value = 7
+name = H
+value = 5
+name = Jik
+value = 1
+name = Af
+value = 2
+name = Aez
+value = 3

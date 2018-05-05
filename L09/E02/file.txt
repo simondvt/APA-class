@@ -1,0 +1,3 @@
+simone 5
+fiorita 10
+alessandro 6
